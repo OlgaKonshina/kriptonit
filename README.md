@@ -42,5 +42,5 @@
 * Поизведен обширный анализ разных моделей глубокого обучения: LaBSE, DistilBERT, RoBERTa, XLNet, ALBERT, RuBERT и RuGPT-3. Анализ и результаты содержатся в ноутбуке Model analysis.ipynb.
 
 ### Лучший результат получен при обучении модели ruBert-base с использванием расширенного датасета и понижением threshold .
-(ноутбук с обучением - Emotion_expand/Emotion_расширенный.ipynb)
+(ноутбук с обучением - Emotion_expand/Emotion_расширенный.ipynb) Презентация - presentation/Project v.4.pdf
 Score = 0,59505
